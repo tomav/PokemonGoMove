@@ -69,7 +69,7 @@ This will start the map server with your credentials, you can look at additional
 
 Now in a separate terminal, you need to start the move server
 ```
-cd PokemonGoMoveAndMap
+cd PokemonGoMove
 ./start-web 
 ```
 
